@@ -1,0 +1,11 @@
+*.jpg
+.idea
+out
+test
+description.html
+git_eclipse.txt
+*.jar
+*.xls
+*.xlsx
+*.eml
+*.msg
